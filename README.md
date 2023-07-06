@@ -1,6 +1,6 @@
 # GRAND THEFT AUTO: FIRST RESPONSE (GFR)
 
-Standalone police simulation created for FiveM inspired by LSPDFR.
+WIP Standalone police simulation created for FiveM inspired by LSPDFR.
 
 This addon allows you to respond to and handle calls for service, and perform realistic duties that a police officer would. This includes but is not limited to:
 
