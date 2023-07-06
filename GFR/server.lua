@@ -2,7 +2,7 @@
 
 OpenAI = {
 
-    apiKey = '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',
+    apiKey = '',
     apiEndpoint = 'https://api.openai.com/v1/chat/completions'
 
 }
@@ -72,6 +72,6 @@ end )
 
 headers = {
 
-    ['Authorization'] = 'Bearer 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'
+    ['Authorization'] = 'Bearer ' .. apiKey
 
 }]]
