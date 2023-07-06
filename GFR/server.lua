@@ -67,11 +67,3 @@ AddEventHandler( 's_talk', function( disposition, history, preface, text )
     end
 
 end )
-
---[[url = 'https://api.openai.com/v1/chat/completions'
-
-headers = {
-
-    ['Authorization'] = 'Bearer ' .. apiKey
-
-}]]
